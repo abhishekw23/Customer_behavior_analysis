@@ -126,4 +126,4 @@ Region B showed declining performance
 
 Average customer value improved after marketing campaign
 
-SQL and Power BI helped validate insights from Python ana
+SQL and Power BI helped validate insights from Python analysis
